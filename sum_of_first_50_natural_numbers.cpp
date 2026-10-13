@@ -1,3 +1,10 @@
+/*
+ * Program    : Sum of First 50 Natural Numbers
+ * Name       : Ayesha Qaisar
+ * Reg No     : L1S26BSCS0110
+ * Assignment : 01 - Getting Started with GitHub
+ */
+
 #include<iostream>
 using namespace std;
 int main(){
